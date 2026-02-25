@@ -7,5 +7,8 @@ Robot Pos N 1
 
 Robot Pos N 2
 
+<img width="553" height="411" alt="изображение" src="https://github.com/user-attachments/assets/5aac20ce-adf7-4572-aa6e-08dd9cf5570a" />
+
+
 Robot Pos N 3
 
