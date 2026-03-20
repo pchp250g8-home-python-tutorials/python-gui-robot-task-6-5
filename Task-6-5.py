@@ -1,3 +1,5 @@
+# --coding:utf-8--
+
 bDrawed = False
 
 def PaintAroundCell():
